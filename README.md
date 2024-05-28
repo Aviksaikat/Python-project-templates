@@ -4,6 +4,8 @@ Collection of templates I use to initialise my Python projects
 
 ## Hatch
 - https://github.com/frankie567/cookiecutter-hipster-pypackage
+- https://github.com/Aviksaikat/cookiecutter-hatch-pypackage
+- https://github.com/FlorianWilhelm/the-hatchlor
 
 #### Installation
 
